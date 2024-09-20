@@ -18,5 +18,5 @@ Showing off a few boids doing mostly normal things.
 Seems the code for them pushing each other away doesn't work all that well.
 ![boidsim_1](https://user-images.githubusercontent.com/95717625/223926926-99dd0221-45d5-4363-ac95-c64e64ba5276.PNG)
 ### Too many boids
-Can handle over 1000 boids honestly for 2x nested for loop I wasn't exspecting that many I mean my code is awful.
+Can handle over 1000 boids.
 ![boidsim_2](https://user-images.githubusercontent.com/95717625/223926923-a9b62343-376f-4a5e-a535-3b42931f134e.PNG)
